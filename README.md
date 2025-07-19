@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋 I'm Naveen Kumar
 
-<!--
-**Naveenyadav5595/Naveenyadav5595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student at NIT Jalandhar  
+💻 Currently learning **DSA** and building skills in **Full Stack Web Development**  
+🚀 Passionate about tech, open-source, and building cool projects  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech I’m Working On
+- Data Structures and Algorithms (DSA)
+- MERN Stack (MongoDB, Express, React, Node.js)
+- Git & GitHub
+
+---
+
+### 📫 Connect with me:
+- [LinkedIn](www.linkedin.com/in/naveenkumar5595)
+
