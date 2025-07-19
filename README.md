@@ -15,5 +15,5 @@
 ---
 
 ### 📫 Connect with me:
-- [LinkedIn](www.linkedin.com/in/naveenkumar5595)
+- [LinkedIn](https://www.linkedin.com/in/naveenkumar5595)
 
