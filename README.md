@@ -12,8 +12,8 @@
 I’m currently doing a **30-Day DSA Challenge** to sharpen my problem-solving skills.  
 I solve problems daily on [LeetCode](https://leetcode.com/Naveenyadav5595/) and push my solutions here 👉 [30Day-DSA-challenge](https://github.com/Naveenyadav5595/30Day-DSA-challenge)
 
-📅 **Today is Day 14**  
-✅ Problems Solved So Far: **120**  
+📅 **Today is Day 17**  
+✅ Problems Solved So Far: **127**  
 🚀 Main Focus: Sliding Window, Heaps, Greedy, Two Pointers, Stacks, Queue,Linked List and Binary Trees
 
 ---
