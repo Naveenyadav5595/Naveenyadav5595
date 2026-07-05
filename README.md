@@ -66,18 +66,6 @@ Well-organized repository containing solutions to hundreds of LeetCode problems 
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naveenyadav5595&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenyadav5595&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -91,38 +79,6 @@ Well-organized repository containing solutions to hundreds of LeetCode problems 
 # 📈 Contribution Graph
 
 [![Naveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naveenyadav5595&theme=tokyo-night)](https://github.com/Naveenyadav5595)
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Naveenyadav5595&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Naveenyadav5595/Naveenyadav5595/blob/output/github-contribution-grid-snake.svg)
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Naveenyadav5595&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-# 💡 Quote of the Day
-
-> "First, solve the problem. Then, write the code." – John Johnson
 
 ---
 
