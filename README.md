@@ -10,7 +10,7 @@
 # 🚀 About Me
 
 - 🎓 B.Tech ICE Student at **NIT Jalandhar**
-- 💻 Passionate about **Software Engineering, Backend Development, DSA
+- 💻 Passionate about **Software Engineering, Backend Development, DSA **
 - 🏆 Solved **700+ DSA Problems**
 - ⭐ **3★ CodeChef**
 - 📈 **1700+ Rating on LeetCode**
