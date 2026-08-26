@@ -52,17 +52,109 @@
 # 🚀 Featured Projects
 
 ### 🏠 WanderLust
-Full-stack Airbnb-inspired MERN application featuring authentication, authorization, image uploads, interactive maps, reviews, and responsive UI.
+A full-stack Airbnb-inspired accommodation platform built using **Node.js, Express.js, MongoDB, EJS, and Bootstrap**, designed to provide users with a complete property listing and booking experience.
+
+#### ✨ Key Features
+
+- 🔐 **User Authentication & Authorization**
+  - User registration and login
+  - Secure session-based authentication
+  - Protected routes
+  - Owner-based authorization for listings
+
+- 🏡 **Listing Management**
+  - Create, edit, and delete property listings
+  - Upload and manage property images
+  - Listing categories and filtering
+  - Detailed property pages
+
+- 📅 **Booking System**
+  - Check property availability
+  - Select check-in and check-out dates
+  - Booking validation
+  - Prevents invalid or conflicting bookings
+
+- 💳 **Payment Integration**
+  - Integrated online payment functionality
+  - Booking confirmation after successful payment
+  - Payment validation and transaction handling
+
+- 🗺️ **Interactive Maps**
+  - Location-based property display
+  - Interactive map integration
+  - Property location visualization
+
+- ⭐ **Reviews & Comments**
+  - Users can submit reviews
+  - Rating system
+  - Review validation
+  - Authorized review management
+  - Delete reviews when permitted
+
+- 🛡️ **Validation & Security**
+  - Server-side input validation
+  - Protected routes and middleware
+  - Authorization checks
+  - Error handling
+  - Flash messages for user feedback
+
+- 📱 **Responsive UI**
+  - Mobile-friendly design
+  - Responsive property cards
+  - Clean navigation
+  - Bootstrap-based interface
+
+#### 🛠️ Tech Stack
+
+**Frontend:** EJS, HTML, CSS, Bootstrap, JavaScript  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Authentication:** Express Session  
+**Maps & Geocoding:** OpenStreetMap, Nominatim, Node-Geocoder  
+**Payments:** Razorpay  
+**Validation:** Joi / Server-side validation  
+**Deployment:** Render
+
 
 ---
+### 💻 Personal Portfolio
+Modern and responsive developer portfolio built with **React, Vite, Tailwind CSS, Framer Motion, and EmailJS**.
 
+Features include:
+- Interactive and responsive UI
+- Technical skills showcase
+- DSA & competitive programming section
+- Project showcase with detailed project views
+- Education and experience timeline
+- Certifications and achievements
+- Interactive resume
+- Contact form with EmailJS
+- Animated components and particle background
+- Responsive navigation and mobile menu
+
+🔗 **Live:** https://naveenkumaryadav55.vercel.app/
+🔗 **GitHub:** https://github.com/Naveenyadav5595/PortFolio
+
+---
 ### 🛰️ CretoGee
 AI-powered space image enhancement and crater detection system inspired by SIH 2024.
 
 ---
 
-### 💻 LeetCode Solutions
-Well-organized repository containing solutions to hundreds of LeetCode problems categorized by topic.
+### 📊 LeetCode Solutions
+Well-organized repository containing my **Data Structures & Algorithms solutions** to LeetCode problems, organized by topics and problem-solving patterns.
+
+Covers topics such as:
+- Arrays & Strings
+- Binary Search
+- Trees & BST
+- Graphs
+- Dynamic Programming
+- Greedy Algorithms
+- Heaps
+- Sliding Window
+- Segment Trees
+- Range Queries
 
 ---
 
