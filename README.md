@@ -51,7 +51,91 @@
 
 # 🚀 Featured Projects
 
+### ⚙️ MotorGuard
+
+A full-stack **industrial motor monitoring and management system** built using the **MERN stack**, designed to monitor motor health, manage industrial motors, process sensor readings, and generate real-time alerts.
+
+#### ✨ Key Features
+
+- 🔐 **Authentication & Role-Based Access**
+  - User registration and login
+  - JWT-based authentication
+  - Manager and Operator roles
+  - Protected routes and role-based permissions
+
+- ⚙️ **Motor Management**
+  - Add, update, and delete motors
+  - Configure motor thresholds
+  - Track motor location and device ID
+  - Monitor motor power state
+  - Automatic motor status classification
+
+- 📊 **Real-Time Motor Monitoring**
+  - Temperature monitoring
+  - RPM monitoring
+  - Vibration monitoring
+  - Healthy / Warning / Critical status
+  - Automatic status updates based on configured thresholds
+
+- 🚨 **Real-Time Alerts**
+  - Automatic alert generation from sensor readings
+  - Warning and Critical alerts
+  - Alert acknowledgement
+  - Alert deletion
+  - Real-time alert updates using Socket.IO
+
+- 📡 **Sensor Integration**
+  - Sensor readings associated with individual motors
+  - Device ID validation
+  - Temperature, RPM and vibration processing
+  - Automatic motor status calculation
+  - Motor power state tracking
+
+- 📋 **Activity Logs**
+  - Motor creation logs
+  - Motor update/delete logs
+  - Motor ON/OFF logs
+  - Alert acknowledgement logs
+  - User information stored with audit activities
+
+- 📈 **Dashboard**
+  - Motor overview
+  - Motor health statistics
+  - Alert statistics
+  - Real-time monitoring interface
+
+- 🛡️ **Backend Security**
+  - JWT authentication
+  - Password hashing using bcrypt
+  - Role-based middleware
+  - Protected API routes
+  - Server-side validation
+
+- 🌐 **Deployment**
+  - Frontend deployed on Render
+  - Backend deployed on Render
+  - MongoDB Atlas database
+  - REST API architecture
+  - Socket.IO for real-time communication
+
+#### 🛠️ Tech Stack
+
+**Frontend:** React, Vite, Tailwind CSS, Recharts, Lucide React  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, Mongoose  
+**Authentication:** JWT, bcrypt  
+**Real-Time Communication:** Socket.IO  
+**API:** REST APIs  
+**Deployment:** Render  
+**Database Hosting:** MongoDB Atlas
+
+🔗 **Live:** https://motorguard-frontend.onrender.com  
+🔗 **GitHub:** https://github.com/Naveenyadav5595/MotorGuard-NaveenYadav
+
+---
+
 ### 🏠 WanderLust
+
 A full-stack Airbnb-inspired accommodation platform built using **Node.js, Express.js, MongoDB, EJS, and Bootstrap**, designed to provide users with a complete property listing and booking experience.
 
 #### ✨ Key Features
@@ -115,9 +199,10 @@ A full-stack Airbnb-inspired accommodation platform built using **Node.js, Expre
 **Validation:** Joi / Server-side validation  
 **Deployment:** Render
 
-
 ---
+
 ### 💻 Personal Portfolio
+
 Modern and responsive developer portfolio built with **React, Vite, Tailwind CSS, Framer Motion, and EmailJS**.
 
 Features include:
@@ -132,16 +217,19 @@ Features include:
 - Animated components and particle background
 - Responsive navigation and mobile menu
 
-🔗 **Live:** https://naveenkumaryadav55.vercel.app/
+🔗 **Live:** https://naveenkumaryadav55.vercel.app/  
 🔗 **GitHub:** https://github.com/Naveenyadav5595/PortFolio
 
 ---
+
 ### 🛰️ CretoGee
+
 AI-powered space image enhancement and crater detection system inspired by SIH 2024.
 
 ---
 
 ### 📊 LeetCode Solutions
+
 Well-organized repository containing my **Data Structures & Algorithms solutions** to LeetCode problems, organized by topics and problem-solving patterns.
 
 Covers topics such as:
